@@ -1,3 +1,3 @@
 # RandomNumberStream
 
-Use AsyncThrowingStream to create an async stream of random numbers.
+Uses AsyncThrowingStream to create an async stream of random numbers.
